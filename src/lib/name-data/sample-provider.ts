@@ -49,7 +49,7 @@ const CURATED: Record<string, Partial<NameReport>> = {
   aritra: {
     rarity: {
       score: 87,
-      label: "Pretty Rare",
+      label: "Very Rare",
       percentile: 87,
       confidence: "medium",
       source: {
